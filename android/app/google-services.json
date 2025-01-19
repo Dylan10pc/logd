@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861855165093",
+    "project_id": "logd-fbb44",
+    "storage_bucket": "logd-fbb44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861855165093:android:e7ffa98d9f9b9d80ab7b4c",
+        "android_client_info": {
+          "package_name": "com.example.logd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5iyk71Px3nE7cXM0HEoLXLN9fMVxwqjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
